@@ -1,0 +1,20 @@
+{
+	"name": "",
+	"version": "1.0.0",
+	"description": "",
+	"source": "index.html",
+	"scripts": {
+		"start": "parcel",
+		"build": "npx parcel build"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"eslint": "^8.36.0",
+		"eslint-config-google": "^0.14.0",
+		"parcel": "^2.8.3"
+	},
+	"dependencies": {
+		"bootstrap": "^5.2.3"
+	}
+}
